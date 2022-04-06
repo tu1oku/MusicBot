@@ -1,0 +1,2 @@
+"# owobot"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/tu1oku/owobot.gitgit push -u origin main
+"# owobot"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/tu1oku/owobot.gitgit push -u origin main
