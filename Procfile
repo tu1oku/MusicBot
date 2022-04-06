@@ -1,1 +1,1 @@
-clock: python clock.py
+web: bundle exec rails server -p $PORT
